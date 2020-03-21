@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aichooque.frank-the-obscure.me/sitemap.xml
